@@ -1,7 +1,7 @@
 # Kuzkay_Coke
 ## Improoved
-[Preview] [https://cdn.discordapp.com/attachments/798200532019576852/887035637247643708/unknown.png]
-[Preview] [https://cdn.discordapp.com/attachments/798200532019576852/887034570548080640/unknown.png]
+[![N|Solid](https://cdn.discordapp.com/attachments/798200532019576852/887034570548080640/unknown.png)
+[![N|Solid](https://cdn.discordapp.com/attachments/798200532019576852/887035637247643708/unknown.png)
 ## Requirements
 - Brain
 - ESX-fw
